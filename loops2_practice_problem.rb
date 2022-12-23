@@ -14,6 +14,14 @@
 
 # 3. Write a while loop that asks the user to enter a word and will run forever until the user enters the word "stop".
 
+# puts "Enter word"
+# word = gets.chomp
+
+# while  word != "stop" 
+#   puts "Try again"
+#   word = gets.chomp
+# end
+
 # 4. Write a while loop that prints the numbers 0 through 100, increasing by 5 each time.
 
 # 5. Write a while loop that prints the number 9000 ten times.
